@@ -1,5 +1,5 @@
 # WEB DEV WITH NODEJS BOOTCAMP
-Hi I made this project during the 7 Days Free Bootcamp
+Hi I am Abhishek Gautam and I have made this project during the 7 Days Bootcamp.
 <br>I got to have hands on experience on:
 <li>HTML
 <li>JavaScript
